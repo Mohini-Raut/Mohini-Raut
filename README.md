@@ -1,7 +1,7 @@
 [Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=34&fontColor=c9d1d9)
 
 <h1 align="center">Hi 👋, I'm Mohini Raut</h1>
-<h3 align="center">Aspiring Software Developer | Tech Enthusiast</h3>
+<h3 align="center">Training Web Development | Tech Enthusiast</h3>
 
 <!-- VISITOR COUNTER -->
 <p align="center">
