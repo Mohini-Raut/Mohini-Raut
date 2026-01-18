@@ -1,4 +1,20 @@
+[Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=34&fontColor=c9d1d9)
 
+<h1 align="center">Hi 👋, I'm Mohini Raut</h1>
+<h3 align="center">Aspiring Software Developer | Tech Enthusiast</h3>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohini-Raut&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
+</p>
+
+---
+
+## 🙋‍♀️ About Me
+- 🌱 Learning *Web Development & Programming*
+- 💻 Interested in *Frontend, Backend & GitHub*
+- 🎯 Goal: Become a *Skilled Software Engineer*
+- ⚡ Fun fact: Love dark-themed UIs & clean code
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mohini Raut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohini Raut) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCW90XKvIPXWe78iDB0hd9ag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohiniraut095@gmail.com) 
 
