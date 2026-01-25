@@ -5,7 +5,7 @@
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohini-Raut&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mohini-Raut&label=Profile%20Views&color=1f6feb&style=for-the-badge" /> 
 </p>
 
 ---
